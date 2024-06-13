@@ -1,0 +1,1 @@
+I have uploaded the jupyter notebook with my responses, I did not get to question 5 or 6 in the allotted time unfortunately. I have also included my dbeaver sql playground that I used to write and tinked with queries to view at one's interest. Overall this was a really fun project to work on and I really enjoyed the challenge and exposure to new technologies. Thanks!
